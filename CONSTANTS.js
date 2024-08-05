@@ -1,0 +1,1 @@
+export const password = "ismail2002"
